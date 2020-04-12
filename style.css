@@ -67,7 +67,8 @@ body {
 
 .feature__supervisor {
   border: 3px solid hsl(0, 0%, 98%);
-  box-shadow: 0 8px 6px -9px hsl(212, 86%, 64%), 0px 8px 6px hsl(0, 0%, 98%);
+  box-shadow: 0 8px 6px -9px hsl(212, 86%, 64%),
+    0px 10px 20px 1px hsl(229, 6%, 66%);
   padding: 0 1.5rem;
   border-top: 4px solid hsl(180, 62%, 55%);
   border-radius: 5px;
@@ -76,7 +77,8 @@ body {
 
 .feature__team {
   border: 3px solid hsl(0, 0%, 98%);
-  box-shadow: 0 8px 6px -9px hsl(212, 86%, 64%), 0px 8px 6px hsl(0, 0%, 98%);
+  box-shadow: 0 8px 6px -9px hsl(212, 86%, 64%),
+    0px 10px 20px 1px hsl(229, 6%, 66%);
   padding: 0 1.5rem;
   border-top: 4px solid hsl(0, 78%, 62%);
   border-radius: 5px;
@@ -84,7 +86,8 @@ body {
 }
 .feature__karma {
   border: 3px solid hsl(0, 0%, 98%);
-  box-shadow: 0 8px 6px -9px hsl(212, 86%, 64%), 0px 8px 6px hsl(0, 0%, 98%);
+  box-shadow: 0 8px 6px -9px hsl(212, 86%, 64%),
+    0px 10px 20px 1px hsl(229, 6%, 66%);
   padding: 0 1.5rem;
   border-top: 4px solid hsl(34, 97%, 64%);
   border-radius: 5px;
@@ -93,7 +96,8 @@ body {
 
 .feature__calculator {
   border: 3px solid hsl(0, 0%, 98%);
-  box-shadow: 0 8px 6px -9px hsl(212, 86%, 64%), 0px 8px 6px hsl(0, 0%, 98%);
+  box-shadow: 0 8px 6px -9px hsl(212, 86%, 64%),
+    0px 10px 20px 1px hsl(229, 6%, 66%);
   padding: 0 1.5rem;
   border-top: 4px solid hsl(212, 86%, 64%);
   border-radius: 5px;
